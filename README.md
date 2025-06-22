@@ -9,12 +9,17 @@ This is a TypeScript example for the `shredlink-node-client@0.1.1` package, demo
 npm install
 ```
 
-3. Run the example:
+2. Build the TypeScript project:
+```bash
+npm run build
+```
+
+3. Run the compiled JavaScript:
 ```bash
 npm start
 ```
 
-Or run directly with ts-node:
+**For development** (runs TypeScript directly without building):
 ```bash
 npm run dev
 ```

@@ -10,7 +10,7 @@ import * as bs58 from 'bs58';
 async function main(): Promise<void> {
   try {
     // Replace with your actual Shredlink URL
-    const shredlinkUrl = 'localhost:50051'; // Ask url in ticket https://discord.gg/sskBrcfX
+    const shredlinkUrl = 'localhost:50051'; // Ask url in ticket https://discord.gg/TR2pxMTz
     const credentials = grpc.credentials.createInsecure();
     const client = new ShredlinkServiceClient(shredlinkUrl, credentials);
 

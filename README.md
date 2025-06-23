@@ -29,7 +29,7 @@ npm run dev
 Before running, make sure to:
 
 1. Update the `shredlinkUrl` in `src/index.ts` with your actual Shredlink service URL
-2. Join the Discord server for URL access: https://discord.gg/sskBrcfX
+2. Join the Discord server for URL access: https://discord.gg/TR2pxMTz
 
 ## Example Output
 
